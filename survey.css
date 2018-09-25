@@ -27,9 +27,6 @@ body{
 	background-repeat: no-repeat;
 	background-position: 25% 50%;
 }
-input, #checkbox{
-	grid-column: 2/3;
-}
 #dropdown{
 	align-self: center;
 }
